@@ -80,3 +80,7 @@ El archivo `Main.java` contiene el método `main` que demuestra cómo se utiliza
 ## Ejecución
 
 Para ejecutar el programa, asegúrate de tener un entorno de desarrollo Java configurado. Luego, compila y ejecuta el archivo `Main.java` para observar la funcionalidad del sistema de gestión académica.
+
+## Autor
+
+Este trabajo fue realizado por Valentin Tamola.
